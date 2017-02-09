@@ -1,2 +1,1 @@
-# AntonPlancke.github.io
-# Lowie is een loser
+# Become a pro bastion
