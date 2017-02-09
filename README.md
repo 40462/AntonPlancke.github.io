@@ -1,4 +1,7 @@
-body {
-    background-color: #33ccff; 
-    background-image: url("http://i.imgur.com/dTiqv7R.gifv");
-}
+<html>
+<head>
+   <title>HTML 5 testpagina</title>
+	<meta charset="utf-8" />
+    <link href="../Style/style.css" rel="stylesheet" />
+</head>
+</html>
